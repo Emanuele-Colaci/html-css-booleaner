@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
  }
-
+ /* Inizio header */
  header{
     height: 50px;
     background-color: #63B8FF;
@@ -26,7 +26,8 @@
  a{
     text-decoration: none;
  }
-
+ /* Fine header */
+ /* Inizio main */
  .testo{
     font-size: 7px;
     color: grey;
@@ -71,7 +72,8 @@
  th, tr{
     width: 1000px;
  }
-
+/* Fine main */
+/* Inizio footer */
  h3{
     margin-top: 20px;
     margin-bottom: 20px;
@@ -94,5 +96,5 @@
     color: white;
     padding-left: 90px;
 }
-
+    /* Fine footer */
 
