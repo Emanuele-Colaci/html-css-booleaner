@@ -32,11 +32,20 @@
     color: grey;
  }
 
- .dimensione-tim{
-    height: 220px;
- }
-
  #corsivo{
     font-style: italic;
     font-size: 5px;
+ }
+
+ #margine{
+    margin-top: 15px;
+    margin-bottom: 15px;
+ }
+
+ span{
+    background-color: yellow;
+ }
+
+ li{
+    margin-left: 20px;
  }
