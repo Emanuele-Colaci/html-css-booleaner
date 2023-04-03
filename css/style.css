@@ -39,7 +39,7 @@
 
  #margine{
     margin-top: 15px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
  }
 
  span{
@@ -49,3 +49,27 @@
  li{
     margin-left: 20px;
  }
+
+ table{
+    border-collapse: collapse;
+    height: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+ }
+
+ th{
+    color: white;
+    background-color: blue;
+ }
+
+ .contenitore-tabella{
+    background-color: #63B8FF;
+    font-size: 20px;
+    margin-top: 20px;
+ }
+
+ th, tr{
+    width: 1000px;
+ }
+
+
