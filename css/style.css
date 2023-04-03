@@ -17,3 +17,26 @@
     width: 100px;
     
  }
+
+ #color{
+    color: grey;
+    font-size: 10px;
+ }
+
+ a{
+    text-decoration: none;
+ }
+
+ .testo{
+    font-size: 7px;
+    color: grey;
+ }
+
+ .dimensione-tim{
+    height: 220px;
+ }
+
+ #corsivo{
+    font-style: italic;
+    font-size: 5px;
+ }
